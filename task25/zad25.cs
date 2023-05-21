@@ -12,7 +12,7 @@ Console.WriteLine("Введите число B:");
 
     int result = 1;
     for (int i = 0; i < b; i++)
-    {cd
+    {
         result *= a;
     }
     Console.WriteLine("Результат: " + result);
